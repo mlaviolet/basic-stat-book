@@ -1,4 +1,4 @@
-book_filename: "bookdown-demo"
+book_filename: "basic-stat-book"
 language:
   ui:
     chapter_name: "Chapter "
